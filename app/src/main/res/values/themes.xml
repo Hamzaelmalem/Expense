@@ -6,11 +6,11 @@
     </style>
     <style name="cym">
         <item name="android:textSize">120sp</item>
-        <item name="android:textColor">#15C8DF</item>
+        <item name="android:textColor">#2763CD</item>
     </style>
     <style name="control_you">
         <item name="android:textSize">25sp</item>
-        <item name="android:textColor">#9BD7DF</item>
+        <item name="android:textColor">#4B94E1</item>
     </style>
     <style name="title">
         <item name="android:textSize">20sp</item>

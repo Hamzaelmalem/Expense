@@ -1,8 +1,8 @@
 <resources>
     <string name="app_name">ContrrolYourMoney</string>
-    <string name="cym">CYM</string>
-    <string name="control_your_money">Control your Money</string>
-    <string name="devlopped_by_lahcen">Devlopped by LAHCEN</string>
+    <string name="MM">MM</string>
+    <string name="Managementofmoney">Management of money</string>
+    <string name="developped_by_hamza">Devlopped by hamza </string>
     <string name="title">Control Your Money</string>
     <string name="get_started">Next</string>
     <string name="username">Username…</string>

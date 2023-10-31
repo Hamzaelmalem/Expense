@@ -15,7 +15,7 @@
         android:fontFamily="@font/baloo"
         android:gravity="center_horizontal|top"
         android:layout_centerHorizontal="true"
-        android:text="@string/cym"
+        android:text="@string/MM"
         android:textAppearance="@style/cym" />
 
     <TextView
@@ -27,13 +27,13 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="-60dp"
         android:fontFamily="@font/amita"
-        android:text="@string/control_your_money"
+        android:text="@string/Managementofmoney"
         android:textAppearance="@style/control_you" />
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
-        android:text="@string/devlopped_by_lahcen"
+        android:text="@string/developped_by_hamza"
         android:layout_marginBottom="40dp"
         android:layout_centerHorizontal="true"
         android:textSize="15sp"
